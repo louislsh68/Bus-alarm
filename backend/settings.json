@@ -1,0 +1,100 @@
+{
+  "testuser": {
+    "schedule": [
+      {
+        "time": "11:49",
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri"
+        ]
+      }
+    ],
+    "routes": [
+      {
+        "route": "1",
+        "stop": "Mong Kok",
+        "direction": "O"
+      }
+    ],
+    "updatedAt": "2026-02-02T03:49:00.000Z"
+  },
+  "testuser_ios_simulation": {
+    "schedule": [
+      {
+        "time": "12:28",
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri"
+        ]
+      }
+    ],
+    "routes": [
+      {
+        "route": "1",
+        "stop": "Mong Kok",
+        "direction": "O"
+      }
+    ],
+    "updatedAt": "2026-02-02T04:27:00.885Z"
+  },
+  "test_valid_ctb": {
+    "schedule": [
+      {
+        "time": "14:15",
+        "days": [
+          "Mon"
+        ]
+      }
+    ],
+    "routes": [
+      {
+        "route": "1",
+        "stop": "Mong Kok",
+        "direction": "O"
+      }
+    ],
+    "updatedAt": "2026-02-02T06:13:29.749Z"
+  },
+  "test_valid_930x": {
+    "schedule": [
+      {
+        "time": "14:15",
+        "days": [
+          "Mon"
+        ]
+      }
+    ],
+    "routes": [
+      {
+        "route": "930X",
+        "stop": "Lung Tak Street",
+        "direction": "O"
+      }
+    ],
+    "updatedAt": "2026-02-02T06:13:33.558Z"
+  },
+  "test_valid_2e": {
+    "schedule": [
+      {
+        "time": "14:15",
+        "days": [
+          "Mon"
+        ]
+      }
+    ],
+    "routes": [
+      {
+        "route": "2E",
+        "stop": "Kowloon City Ferry Piers",
+        "direction": "O"
+      }
+    ],
+    "updatedAt": "2026-02-02T06:13:38.071Z"
+  }
+}
