@@ -1,0 +1,20 @@
+# Large raw data files (too big for Git)
+hkjc_results_v5.json
+hkjc_results_v5.csv
+hkjc_results.json
+hkjc_results.csv
+hkjc_results_2026-*.json
+hkjc_full_year.json
+
+# Temp files
+test_fetch.py
+/tmp/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Node
+node_modules/
